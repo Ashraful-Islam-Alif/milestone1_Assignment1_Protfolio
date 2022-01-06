@@ -1,7 +1,11 @@
 h1{
-    font-family: 'Open Sans', sans-serif;
     font-size: 45px;
     font-weight: 700px;
+    font: bold;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
     font: bold;
 }
 .head_border{
