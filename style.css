@@ -1,0 +1,36 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 45px;
+    font-weight: 700px;
+    font: bold;
+}
+.head_border{
+    border-left:solid red;
+}
+.Misson_head{
+    color: orange;
+}
+.Explore_btn{
+    text-decoration: none;
+    font: 10px;
+    background-color: #f32206d2;
+    font-weight: 500;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.focus_intro_para{
+    width: 90%;
+    margin-left: 40px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.intro_para{
+    margin-left: 2%;
+    margin-right: 10%;    
+}
