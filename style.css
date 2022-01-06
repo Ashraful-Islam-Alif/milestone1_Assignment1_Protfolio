@@ -38,3 +38,38 @@ h2{
     margin-left: 2%;
     margin-right: 10%;    
 }
+.color_2022{
+    color: orange;
+}
+.img_mission22 img{
+    width: 50%;
+}
+#backgroundColor_vision{
+    background-color: rgba(238, 201, 153, 0.527);
+}
+#backgroundColor_Goals{
+    background-color: #f1ee0965;
+}
+.mission{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.all_mission{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 400px;
+    height: 450px;
+    border-radius: 10px;
+    background-color: #d9f7fc70;
+    margin-inline: 10px;
+   
+}
+.section_div{
+    text-align: left;
+    width: 90%;
+    margin: auto;
+    padding: 50px;
+    
+}
