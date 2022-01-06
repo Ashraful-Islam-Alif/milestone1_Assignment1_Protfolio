@@ -1,7 +1,9 @@
+
 h1{
     font-size: 45px;
     font-weight: 700px;
     font: bold;
+    
 }
 h2{
     font-size: 30px;
@@ -12,12 +14,12 @@ h2{
     border-left:solid red;
 }
 .Misson_head{
-    color: orange;
+    color: #db189ada;
 }
 .Explore_btn{
     text-decoration: none;
     font: 10px;
-    background-color: #f32206d2;
+    background-color: #0680f398;
     font-weight: 500;
     padding-left: 20px;
     padding-right: 20px;
@@ -39,7 +41,7 @@ h2{
     margin-right: 10%;    
 }
 .color_2022{
-    color: orange;
+    color: #db189ada;
 }
 .img_mission22 img{
     width: 50%;
@@ -73,3 +75,53 @@ h2{
     padding: 50px;
     
 }
+
+.Skill{
+    width: 95%;
+    margin-left: 40px;
+    margin-right: 10%;
+    display: flex;
+    justify-content:left;
+}
+
+.Skill-width img{
+    height: 100%;
+    width: 100%;
+}
+.Document_btn{
+    text-decoration: none;
+    font: 10px;
+    background-color: #0680f398;
+    font-weight: 500;
+    padding-left: 30px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-radius: 5px;
+}
+#Skill_background{
+    
+    padding-left: 40px;
+    background-position: left;
+    background-size: 5%;
+    background-image: url(./images/shapes/shape-1.png);
+    background-size: 95px 100px;
+    background-position: left;
+    background-repeat: no-repeat;
+    
+}
+#aboutme_background1{
+    margin-top: 20px;
+    padding-right: 42px;
+    background-position: right bottom -1%; 
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 5% 30%;
+    
+}
+#about_image img {
+    margin-left: 50%;
+    
+}
+
