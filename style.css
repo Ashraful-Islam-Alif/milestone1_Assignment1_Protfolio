@@ -77,9 +77,9 @@ h2{
 }
 
 .Skill{
-    width: 95%;
+    width: 90%;
     margin-left: 40px;
-    margin-right: 10%;
+    margin-right: 20%;
     display: flex;
     justify-content:left;
 }
@@ -92,9 +92,9 @@ h2{
     text-decoration: none;
     font: 10px;
     background-color: #0680f398;
-    font-weight: 500;
+    font-weight: 700;
     padding-left: 30px;
-    padding-right: 5px;
+    padding-right: 25px;
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
@@ -107,21 +107,69 @@ h2{
     background-size: 5%;
     background-image: url(./images/shapes/shape-1.png);
     background-size: 95px 100px;
-    background-position: left;
     background-repeat: no-repeat;
     
 }
 #aboutme_background1{
-    margin-top: 20px;
-    padding-right: 42px;
-    background-position: right bottom -1%; 
+   
+    background-position: right bottom; 
     background-image: url(./images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-size: 5% 30%;
+    background-size: 5%;
     
 }
 #about_image img {
-    margin-left: 50%;
+    margin-left: 10%;
     
 }
+.tool_head{
+    text-align: center;
+}
+span{
+    color: #db189ada;
+}
 
+h3{
+    font-size: 30px;
+}
+.Tools_link{
+    text-decoration: none;
+    font: 10px;
+    background-color: #0680f398;
+    font-weight: 700;
+    padding-left: 30px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+.tools_section{
+    width: 90%;
+}
+.tools{
+    width: 90%;
+    display: flex;
+}
+
+.tools_width{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+.tools_width img{
+    width: 70%;
+}
+
+.buttom_text{
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+    background-color: black;
+    font: bold;
+    color: white;
+}
+p{
+    font-style: normal;
+}
