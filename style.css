@@ -111,18 +111,24 @@ h2{
     background-repeat: no-repeat;
     
 }
+.about-width{
+    
+    margin-right: 100px;
+    width: 50%;
+}
 
 .Skill-width1{
-    padding-right: 40px;
-    background-position: right bottom -10px;
-    background-size: 15%;
+    padding-right: 10px;
+    background-position: right bottom;
+    background-size: 8%;
     background-image: url(./images/shapes/shape-1.png);
     background-repeat: no-repeat;
 
 }
     
 .Skill-width1 img {
-    width: 100%;
+    margin: 12px;
+    width: 95%;
     
 }
 .tool_head{
